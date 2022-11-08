@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksksignet"]=self["webpackChunksksignet"]||[]).push([[613],{2613:(s,t,e)=>{e.r(t),e.d(t,{default:()=>i});var n=function(){var s=this;s._self._c;return s._m(0)},r=[function(){var s=this,t=s._self._c;return t("div",{staticClass:"footer-wrap"},[t("address",[s._v(" 사업자번호: 144-81-36734 / 상호명: 홈앤서비스 주식회사 / 대표자명: 김일 / 전화번호: 16700-119 / 주소: 서울특별시 중구 퇴계로 10, 16층(남대문로5가,메트로타워)")])])}];const l={},u=l;var a=e(1001),c=(0,a.Z)(u,n,r,!1,null,null,null);const i=c.exports}}]);
+//# sourceMappingURL=613.2ce40884.js.map
